@@ -1,0 +1,14 @@
+# Compiled output
+*.exe
+*.out
+
+# IDE files
+.vscode/
+*.cbp
+*.layout
+*.depend
+*.o
+
+# Windows junk
+Thumbs.db
+.DS_Store
